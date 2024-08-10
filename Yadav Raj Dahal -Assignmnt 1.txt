@@ -1,0 +1,17 @@
+﻿Short notes……
+
+
+1. Pandas: It is a python library for data manipulation and analysis.It is a open source python library.Pandas is a powerful open-source Python library for data manipulation and analysis. It provides  data structures, such as the DataFrame and Series, which allow for efficient working with tabular, multidimensional, potentially heterogeneous data. 
+2. NumPy:It is a fundamental library for scientific computing in Python. It provides support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+
+3. TensorFlow:It is an open-source machine learning and deep learning framework developed by Google. It is used for building and deploying machine learning models, especially deep neural networks. TensorFlow provides a flexible ecosystem of tools, libraries, and community resources.
+
+
+4. Keras:It is a high-level neural networks API that runs on top of TensorFlow, CNTK, or Theano. It is designed to enable fast experimentation with deep neural networks and supports both convolutional networks and recurrent networks.
+
+
+5. sklearn:It is a machine learning library for Python that features various classification, regression, and clustering algorithms. It is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy. 
+
+
+6. PyTorch: It  is an open-source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's AI Research lab.
